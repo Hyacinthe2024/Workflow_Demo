@@ -22,7 +22,7 @@
 -- COMMAND ----------
 
 -- MAGIC %md
--- MAGIC ## 🥉 PARTIE 1: COUCHE BRONZE - DONNÉES BRUTES:
+-- MAGIC ## 🥉 PARTIE 1: COUCHE BRONZE - DONNÉES BRUTES
 -- MAGIC
 -- MAGIC La couche Bronze ingère les données brutes depuis les fichiers sources sans transformation.
 -- MAGIC - **Objectif**: Conservation intégrale des données originales
